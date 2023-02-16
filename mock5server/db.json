@@ -3,6 +3,11 @@
 		{
 			"id": 1,
 			"username": "avinash",
+			"email": "admin@gmail.com",
+			"password": "admin123"
+		},{
+			"id": 2,
+			"username": "avi",
 			"email": "admin@stockbroker.com",
 			"password": "admin123"
 		}
